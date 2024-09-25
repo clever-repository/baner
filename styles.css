@@ -1,9 +1,7 @@
-        html, body {
-            height: 100%;
-        }
-
         body {
             font-family: "Public Sans", sans-serif;
+            overflow: hidden;
+            height: 100%;
         }
         .banner {
             display: flex;
